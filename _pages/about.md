@@ -11,7 +11,7 @@ redirect_from:
 <!-- * B.S. in Communication Engineering, Hefei University of Technology, 2019
 * M.S. in Computer Science and Technology, Harbin Institute of Technology, 2021
 * Ph.D. in Computer Science and Technology, Harbin Institute of Technology, 2025 (expected) -->
-Hi, this is Xiaoyu Han. I am a fourth-year (2020~) Ph.D. student in Faculty of Computing, Harbin Institute of Technology, advised by Prof. [Shengping Zhang](https://homepage.hit.edu.cn/zhangshengping).
+Hi, this is Xiaoyu Han. I am a fourth-year Ph.D. student in Faculty of Computing, Harbin Institute of Technology, advised by Prof. [Shengping Zhang](https://homepage.hit.edu.cn/zhangshengping).
 My research focuses on **Virtual Try-on**.
 
 
@@ -34,7 +34,7 @@ Ph.D. Student. Sep. 2020 - Present<br>
 <td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
 <img width="80" src="../images/hit.png"> 
 </td>
-<td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
+<td style="padding:20px;width:75%;vertical-align:middle;border:none" align="left">
 Bachelor of Engineering. Sep. 2016 - Jun. 2020<br>
 <a href="https://cst.hitwh.edu.cn/">School of Computer Science and Technology</a><br>
 <a href="https://www.hitwh.edu.cn/">Harbin Institute of Technology</a><br>
@@ -59,7 +59,7 @@ Bachelor of Engineering. Sep. 2016 - Jun. 2020<br>
 
 --- -->
 
-<img align="left" width="300" height="225" src="../images/tmm2023.png" style="padding-right:20px; padding-top:20px"/>
+<img align="left" width="280" height="225" src="../images/tmm2023.png" style="padding-right:20px; padding-top:20px"/>
 
 <b>Limb-Aware Virtual Try-On Network With Progressive Clothing Warping</b><br>
 [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), <b>Xiaoyu Han</b>, [Weigang Zhang](https://homepage.hit.edu.cn/zhangweigang), [Xiangyuan Lan](https://scholar.google.com.hk/citations?user=c3iwWRcAAAAJ&hl), [Hongxun Yao](https://homepage.hit.edu.cn/yaohongxun), [Qingming Huang](https://people.ucas.ac.cn/~qmhuang)<br>
@@ -69,12 +69,12 @@ Bachelor of Engineering. Sep. 2016 - Jun. 2020<br>
 
 ---
 
-<img align="left" width="300" height="225" src="../images/acmmm2022.png" style="padding-right:20px; padding-top:20px"/>
+<img align="left" width="280" height="225" src="../images/acmmm2022.png" style="padding-right:20px; padding-top:20px"/>
 
 <b>Progressive Limb-Aware Virtual Try-On</b><br>
 <b>Xiaoyu Han</b>, [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Qinglin Liu](https://scholar.google.com/citations?user=hsu1cSIAAAAJ), Zonglin Li, Chenyang Wang<br>
 <i>Proceedings of the 30th ACM International Conference on Multimedia (<b>ACM MM</b>), 2022</i><br>
- [<i class="fas fa-fw fa-file-pdf"></i>Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3547999)/
+[<i class="fas fa-fw fa-file-pdf"></i>Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3547999)/
 [<i class="fab fa-fw fa-github fa-github"></i>Code](https://github.com/xyhanHIT/PL-VTON)<br>
 
 ## Award
