@@ -72,7 +72,7 @@ Bachelor of Engineering. Sep. 2016 - Jun. 2020<br>
 <img align="left" width="280" height="200" src="../images/acmmm2022.png" style="padding-right:20px; padding-top:20px"/>
 
 <b>Progressive Limb-Aware Virtual Try-On</b><br>
-<b>Xiaoyu Han</b>, [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Qinglin Liu](https://scholar.google.com/citations?user=hsu1cSIAAAAJ), Zonglin Li, Chenyang Wang<br>
+<b>Xiaoyu Han</b>, [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Qinglin Liu](https://scholar.google.com/citations?user=hsu1cSIAAAAJ), [Zonglin Li](https://scholar.google.com.hk/citations?user=e3cfNyMAAAAJ&hl=zh-CN&oi=sra), [Chenyang Wang](https://openreview.net/profile?id=~Chenyang_Wang4)<br>
 <i>Proceedings of the 30th ACM International Conference on Multimedia (<b>ACM MM</b>), 2022</i><br>
 [<i class="fas fa-fw fa-file-pdf"></i>Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3547999)/
 [<i class="fab fa-fw fa-github fa-github"></i>Code](https://github.com/xyhanHIT/PL-VTON)<br>
