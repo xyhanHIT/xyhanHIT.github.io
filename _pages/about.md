@@ -37,7 +37,7 @@ Ph.D. Student. Sep. 2020 - Present<br>
 <td style="padding:20px;width:75%;vertical-align:middle;border:none" align="left">
 Bachelor of Engineering. Sep. 2016 - Jun. 2020<br>
 <a href="https://cst.hitwh.edu.cn/">School of Computer Science and Technology</a><br>
-<a href="https://www.hitwh.edu.cn/">Harbin Institute of Technology, Weihai</a><br>
+<a href="https://www.hitwh.edu.cn/">Harbin Institute of Technology (Weihai)</a><br>
 </td>
 </tr>
 </table>    

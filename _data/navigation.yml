@@ -6,13 +6,13 @@
 
 main:
   - title: "Background"
-    url: "https://xyhanhit.github.io/#Background"    
+    url: "https://xyhanhit.github.io/#background"    
 
   - title: "Research"
-    url: "https://xyhanhit.github.io/#Research"    
+    url: "https://xyhanhit.github.io/#research"    
     
   - title: "Award"
-    url: "https://xyhanhit.github.io/#Award"
+    url: "https://xyhanhit.github.io/#award"
         
   - title: "Contact"
-    url: "https://xyhanhit.github.io/#Contact"
+    url: "https://xyhanhit.github.io/#contact"
