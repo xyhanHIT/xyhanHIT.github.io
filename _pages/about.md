@@ -59,7 +59,7 @@ Bachelor of Engineering. Sep. 2016 - Jun. 2020<br>
 
 --- -->
 
-<img align="left" width="280" height="225" src="../images/tmm2023.png" style="padding-right:20px; padding-top:20px"/>
+<img align="left" width="280" height="200" src="../images/tmm2023.png" style="padding-right:20px; padding-top:20px"/>
 
 <b>Limb-Aware Virtual Try-On Network With Progressive Clothing Warping</b><br>
 [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), <b>Xiaoyu Han</b>, [Weigang Zhang](https://homepage.hit.edu.cn/zhangweigang), [Xiangyuan Lan](https://scholar.google.com.hk/citations?user=c3iwWRcAAAAJ&hl), [Hongxun Yao](https://homepage.hit.edu.cn/yaohongxun), [Qingming Huang](https://people.ucas.ac.cn/~qmhuang)<br>
@@ -69,7 +69,7 @@ Bachelor of Engineering. Sep. 2016 - Jun. 2020<br>
 
 ---
 
-<img align="left" width="280" height="225" src="../images/acmmm2022.png" style="padding-right:20px; padding-top:20px"/>
+<img align="left" width="280" height="200" src="../images/acmmm2022.png" style="padding-right:20px; padding-top:20px"/>
 
 <b>Progressive Limb-Aware Virtual Try-On</b><br>
 <b>Xiaoyu Han</b>, [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Qinglin Liu](https://scholar.google.com/citations?user=hsu1cSIAAAAJ), Zonglin Li, Chenyang Wang<br>
