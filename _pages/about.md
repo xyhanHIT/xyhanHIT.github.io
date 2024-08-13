@@ -72,4 +72,4 @@ Bachelor of Engineering. Sep. 2016 - Jun. 2020<br>
 + Outstanding Graduate of Harbin Institute of Technology, 2018
 
 ## Contact
-E-mail: xyhan[AT]stu.hit.edu.cn
+E-mail: xyhan@stu.hit.edu.cn
