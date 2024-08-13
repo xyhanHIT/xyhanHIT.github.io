@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiaoyu Hang (韩潇宇)'s Homepage"
+title                    : "Xiaoyu Han (韩潇宇)'s Homepage"
 title_separator          : "-"
-name                     : &name "Xiaoyu Hang"
-description              : &description "Xiaoyu Hang (韩潇宇)'s Homepage"
-url                      : https://xyhanhit.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Xiaoyu Han"
+description              : &description "Xiaoyu Han (韩潇宇)'s Homepage"
+url                      : https://xyhanHIT.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xyhanHIT.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiaoyu Hang"
+  name             : "Xiaoyu Han"
   avatar           : "avatar.jpg"
   bio              : "Ph.D. student at Harbin Institute of Technology"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=nAHH79oAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=nAHH79oAAAAJ"
   email            : "xyhan@stu.hit.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "XiaoyuHan"
+  github           : "xyhanHIT"
   google_plus      :
   keybase          :
   instagram        :
