@@ -37,7 +37,7 @@ Ph.D. Student. Sep. 2020 - Present<br>
 <td style="padding:20px;width:75%;vertical-align:middle;border:none" align="left">
 Bachelor of Engineering. Sep. 2016 - Jun. 2020<br>
 <a href="https://cst.hitwh.edu.cn/">School of Computer Science and Technology</a><br>
-<a href="https://www.hitwh.edu.cn/">Harbin Institute of Technology</a><br>
+<a href="https://www.hitwh.edu.cn/">Harbin Institute of Technology, Weihai</a><br>
 </td>
 </tr>
 </table>    
@@ -78,9 +78,9 @@ Bachelor of Engineering. Sep. 2016 - Jun. 2020<br>
 [<i class="fab fa-fw fa-github fa-github"></i>Code](https://github.com/xyhanHIT/PL-VTON)<br>
 
 ## Award
-+ "Three Good Student" Award for Higher Education Institutions in Heilongjiang Province, 2023
-+ Outstanding Graduate of Harbin Institute of Technology, 2023
-+ Awarded as an Outstanding Student at Harbin Institute of Technology, 2020
++ Merit Student of Higher Education Institutions in Heilongjiang Province, 2023
++ Outstanding Student of Harbin Institute of Technology, 2023
++ Outstanding Student of Harbin Institute of Technology, 2020
 + Outstanding Graduate of Harbin Institute of Technology, 2018
 
 ## Contact
