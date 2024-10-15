@@ -47,19 +47,17 @@ Bachelor of Engineering. Sep. 2016 - Jun. 2020<br>
 
 ## Research
 
-<!-- <img align="left" width="300" height="225" src="../images/GPS-Gaussian_live.gif" style="padding-right:20px; padding-top:20px"/>
+<img align="left" width="280" height="200" src="../images/acmmm2024.png" style="padding-right:20px; padding-top:10px"/>
 
-<b>GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis</b><br>
-<b>Shunyuan Zheng</b>, [Boyao Zhou](https://yaourtb.github.io), [Ruizhi Shao](https://dsaurus.github.io/saurus), [Boning Liu](https://liuboning2.github.io), [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Liqiang Nie](https://liqiangnie.github.io), [Yebin Liu](http://www.liuyebin.com)<br>
-<i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2024</i>  <font color="#dd0000">(Highlight)</font><br>
-[<i class="fas fa-fw fa-globe"></i>Project](https://shunyuanzheng.github.io/GPS-Gaussian) /
-[<i class="fas fa-fw fa-file-pdf"></i>Paper](https://arxiv.org/pdf/2312.02155) /
-[<i class="fab fa-fw fa-github fa-github"></i>Code](https://github.com/aipixel/GPS-Gaussian) /
-[<i class="fas fa-fw fa-video"></i>Video](https://youtu.be/HjnBAqjGIAo)<br>
+<b>Shape-Guided Clothing Warping for Virtual Try-On</b><br>
+<b>Xiaoyu Han</b>, [Shunyuan Zheng](https://shunyuanzheng.github.io), [Zonglin Li](https://scholar.google.com.hk/citations?user=e3cfNyMAAAAJ&hl=zh-CN&oi=sra), [Chenyang Wang](https://openreview.net/profile?id=~Chenyang_Wang4), [Xin Sun](https://openreview.net/profile?id=~Xin_Sun17), [Quanling Meng](https://openreview.net/profile?id=~Quanling_Meng1)<br>
+<i>Proceedings of the 32th ACM International Conference on Multimedia (<b>ACM MM</b>), 2024</i><br>
+[<i class="fas fa-fw fa-file-pdf"></i>Paper](https://openreview.net/pdf?id=uzlrRAmhPj) /
+[<i class="fab fa-fw fa-github fa-github"></i>Project](Coming Soon)<br>
 
---- -->
+---
 
-<img align="left" width="280" height="200" src="../images/tmm2023.png" style="padding-right:20px; padding-top:20px"/>
+<img align="left" width="280" height="200" src="../images/tmm2023.png" style="padding-right:20px; padding-top:10px"/>
 
 <b>Limb-Aware Virtual Try-On Network With Progressive Clothing Warping</b><br>
 [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), <b>Xiaoyu Han</b>, [Weigang Zhang](https://homepage.hit.edu.cn/zhangweigang), [Xiangyuan Lan](https://scholar.google.com.hk/citations?user=c3iwWRcAAAAJ&hl), [Hongxun Yao](https://homepage.hit.edu.cn/yaohongxun), [Qingming Huang](https://people.ucas.ac.cn/~qmhuang)<br>
@@ -69,7 +67,7 @@ Bachelor of Engineering. Sep. 2016 - Jun. 2020<br>
 
 ---
 
-<img align="left" width="280" height="200" src="../images/acmmm2022.png" style="padding-right:20px; padding-top:20px"/>
+<img align="left" width="280" height="200" src="../images/acmmm2022.png" style="padding-right:20px; padding-top:10px"/>
 
 <b>Progressive Limb-Aware Virtual Try-On</b><br>
 <b>Xiaoyu Han</b>, [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Qinglin Liu](https://scholar.google.com/citations?user=hsu1cSIAAAAJ), [Zonglin Li](https://scholar.google.com.hk/citations?user=e3cfNyMAAAAJ&hl=zh-CN&oi=sra), [Chenyang Wang](https://openreview.net/profile?id=~Chenyang_Wang4)<br>
@@ -84,4 +82,4 @@ Bachelor of Engineering. Sep. 2016 - Jun. 2020<br>
 + Outstanding Graduate of Harbin Institute of Technology, 2018
 
 ## Contact
-E-mail: xyhan[AT]stu.hit.edu.cn
+E-mail: xyhan@stu.hit.edu.cn
