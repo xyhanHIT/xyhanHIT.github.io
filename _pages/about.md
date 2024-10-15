@@ -62,7 +62,7 @@ Bachelor of Engineering. Sep. 2016 - Jun. 2020<br>
 [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), <b>Xiaoyu Han</b>, [Weigang Zhang](https://homepage.hit.edu.cn/zhangweigang), [Xiangyuan Lan](https://scholar.google.com.hk/citations?user=c3iwWRcAAAAJ&hl), [Hongxun Yao](https://homepage.hit.edu.cn/yaohongxun), [Qingming Huang](https://people.ucas.ac.cn/~qmhuang)<br>
 <i>IEEE Transactions on Multimedia (<b>TMM</b>), 2023</i><br>
 [<i class="fas fa-fw fa-file-pdf"></i>Paper](https://ieeexplore.ieee.org/abstract/document/10152500/authors#authors) /
-[<i class="fab fa-fw fa-github fa-github"></i>Project](https://github.com/aipixel/PL-VTONv2)<br>
+[<i class="fab fa-fw fa-github fa-github"></i>Code](https://github.com/aipixel/PL-VTONv2)<br>
 
 ---
 
