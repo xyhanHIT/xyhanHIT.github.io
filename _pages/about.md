@@ -52,7 +52,7 @@ Bachelor of Engineering. Sep. 2016 - Jun. 2020<br>
 <b>Shape-Guided Clothing Warping for Virtual Try-On</b><br>
 <b>Xiaoyu Han</b>, [Shunyuan Zheng](https://shunyuanzheng.github.io), [Zonglin Li](https://scholar.google.com.hk/citations?user=e3cfNyMAAAAJ&hl=zh-CN&oi=sra), [Chenyang Wang](https://openreview.net/profile?id=~Chenyang_Wang4), [Xin Sun](https://openreview.net/profile?id=~Xin_Sun17), [Quanling Meng](https://openreview.net/profile?id=~Quanling_Meng1)<br>
 <i>Proceedings of the 32th ACM International Conference on Multimedia (<b>ACM MM</b>), 2024</i><br>
-[<i class="fas fa-fw fa-file-pdf"></i>Paper](https://openreview.net/pdf?id=uzlrRAmhPj)
+[<i class="fas fa-fw fa-file-pdf"></i>Paper](https://dl.acm.org/doi/10.1145/3664647.3680756)
 
 ---
 
