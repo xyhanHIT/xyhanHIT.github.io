@@ -76,6 +76,7 @@ Bachelor of Engineering. Sep. 2016 - Jun. 2020<br>
 [<i class="fab fa-fw fa-github fa-github"></i>Code](https://github.com/xyhanHIT/PL-VTON)<br>
 
 ## Award
++ Outstanding Student of Harbin Institute of Technology, 2024
 + Merit Student of Higher Education Institutions in Heilongjiang Province, 2023
 + Outstanding Student of Harbin Institute of Technology, 2023
 + Outstanding Student of Harbin Institute of Technology, 2020
