@@ -47,12 +47,12 @@ Bachelor of Engineering. Sep. 2016 - Jun. 2020<br>
 
 ## Research
 
-<img align="left" width="280" height="220" src="../images/MOFA_VTON.gif" style="padding-right:20px; padding-top:10px"/>
+<img align="left" width="280" height="200" src="../images/MOFA_VTON.gif" style="padding-right:20px; padding-top:10px"/>
 
 <b>MOFA-VTON: More Fashion Possibilities with Fine-Grained Adaptations in Virtual Try-On</b><br>
 <b>Xiaoyu Han</b>, Chenyang Wang, Jing Wang, Shunyuan Zheng Quanling Meng, and Shengping Zhang<br>
 <i>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2026 (Highlight)</i><br>
-[<i class="fas fa-fw fa-file-pdf"></i>Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Han_MOFA-VTON_More_Fashion_Possibilities_with_Fine-Grained_Adaptations_in_Virtual_Try-On_CVPR_2026_paper.html)
+[<i class="fas fa-fw fa-file-pdf"></i>Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Han_MOFA-VTON_More_Fashion_Possibilities_with_Fine-Grained_Adaptations_in_Virtual_Try-On_CVPR_2026_paper.html)<br>
 
 ---
 
