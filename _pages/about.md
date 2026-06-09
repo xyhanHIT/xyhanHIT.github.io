@@ -47,7 +47,7 @@ Bachelor of Engineering. Sep. 2016 - Jun. 2020<br>
 
 ## Research
 
-<img align="left" width="280" height="200" src="../images/MOFA_VTON.gif" style="padding-right:20px; padding-top:30px; padding-top:30px"/>
+<img align="left" width="280" height="200" src="../images/MOFA_VTON.gif" style="padding-right:20px; padding-top:30px"/>
 
 <b>MOFA-VTON: More Fashion Possibilities with Fine-Grained Adaptations in Virtual Try-On</b><br>
 <b>Xiaoyu Han</b>, Chenyang Wang, Jing Wang, Shunyuan Zheng Quanling Meng, and Shengping Zhang<br>
